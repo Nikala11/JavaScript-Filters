@@ -1,4 +1,4 @@
-# Bill Calculator
+# Inputs Filter
 
-<p>Bill Calculator, built in JavaSript by @Nikala11.</p>
-<p>An important factor is that if any step is not completed, the calculation of tips we be unsuccessful.</p>
+<p>Inputs Filter, built by @Nikala11.</p>
+<p>Given is a list of inputs and there is also a search field with the help of which we can search for any name given in the list of inputs.</p>
