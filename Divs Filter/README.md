@@ -1,4 +1,4 @@
-# Bill Calculator
+# Divs Filter
 
-<p>Bill Calculator, built in JavaSript by @Nikala11.</p>
-<p>An important factor is that if any step is not completed, the calculation of tips we be unsuccessful.</p>
+<p>Divs Filter, built by @Nikala11.</p>
+<p>There are many divs of different colors that you can sort by color.</p>
